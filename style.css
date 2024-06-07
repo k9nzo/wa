@@ -23,8 +23,9 @@ p {
 }
 
 .comic-box {
-  border: 2px solid rgb(250, 246, 246);
+  border: 2px solid rgb(agenda250, 246, 246);
   border-radius: 5%;
+  background-color:white;
 }
 img {
   border-radius: 4%;
